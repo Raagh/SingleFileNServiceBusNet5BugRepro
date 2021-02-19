@@ -1,0 +1,6 @@
+﻿2021-02-18 15:43:05.772 INFO  Logging to 'C:\Users\Patricio\RiderProjects\SingleFileNServiceBusNet5\MainProject\published\' with level Info
+2021-02-18 15:43:06.054 INFO  Selected active license from C:\ProgramData\ParticularSoftware\license.xml
+License Expiration: 2021-06-16
+2021-02-18 15:44:00.770 INFO  Logging to 'C:\Users\Patricio\RiderProjects\SingleFileNServiceBusNet5\MainProject\published\' with level Info
+2021-02-18 15:44:00.968 INFO  Selected active license from C:\ProgramData\ParticularSoftware\license.xml
+License Expiration: 2021-06-16

@@ -1,0 +1,2463 @@
+{
+  "AssemblyScanning": {
+    "Assemblies": [
+      {
+        "FullName": "MainProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "FileVersion": "1.0.0"
+      },
+      {
+        "FullName": "NServiceBus.Core, Version=7.0.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c",
+        "FileVersion": "7.4.4"
+      }
+    ],
+    "ErrorsThrownDuringScanning": false,
+    "SkippedFiles": [
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-console-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-console-l1-2-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-datetime-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-debug-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-errorhandling-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-file-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-file-l1-2-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-file-l2-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-handle-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-heap-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-interlocked-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-libraryloader-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-localization-l1-2-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-memory-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-namedpipe-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-processenvironment-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-processthreads-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-processthreads-l1-1-1.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-profile-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-rtlsupport-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-string-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-synch-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-synch-l1-2-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-sysinfo-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-timezone-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-core-util-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-conio-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-convert-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-environment-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-filesystem-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-heap-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-locale-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-math-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-multibyte-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-private-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-process-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-runtime-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-stdio-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-string-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-time-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\api-ms-win-crt-utility-l1-1-0.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\clrcompression.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\clretwrc.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\clrjit.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\coreclr.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\dbgshim.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\hostfxr.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\hostpolicy.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.CSharp.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.DiaSymReader.Native.amd64.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.VisualBasic.Core.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.VisualBasic.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.Win32.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.Win32.Registry.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.Win32.SystemEvents.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\mscordaccore.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\mscordaccore_amd64_amd64_5.0.220.61120.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\mscordbi.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\mscorlib.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\mscorrc.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\netstandard.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.AppContext.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Buffers.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.Concurrent.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.Immutable.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.NonGeneric.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.Specialized.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.Annotations.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.DataAnnotations.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.EventBasedAsync.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.TypeConverter.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Configuration.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Console.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Core.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Data.Common.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Data.DataSetExtensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Data.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Contracts.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Debug.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.DiagnosticSource.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.FileVersionInfo.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Process.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.StackTrace.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.TextWriterTraceListener.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Tools.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.TraceSource.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Tracing.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Drawing.Common.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Drawing.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Drawing.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Dynamic.Runtime.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Formats.Asn1.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Globalization.Calendars.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Globalization.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Globalization.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Compression.Brotli.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Compression.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Compression.FileSystem.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Compression.ZipFile.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.AccessControl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.DriveInfo.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.Watcher.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.IsolatedStorage.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.MemoryMappedFiles.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Pipes.AccessControl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Pipes.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.UnmanagedMemoryStream.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Linq.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Linq.Expressions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Linq.Parallel.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Linq.Queryable.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Memory.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Http.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Http.Json.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.HttpListener.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Mail.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.NameResolution.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.NetworkInformation.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Ping.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Requests.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Security.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.ServicePoint.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Sockets.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebClient.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebHeaderCollection.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebProxy.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebSockets.Client.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebSockets.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Numerics.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Numerics.Vectors.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ObjectModel.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.CoreLib.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.DataContractSerialization.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.Uri.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.Xml.Linq.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.DispatchProxy.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Emit.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Emit.ILGeneration.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Emit.Lightweight.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Metadata.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.TypeExtensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Resources.Reader.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Resources.ResourceManager.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Resources.Writer.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.CompilerServices.Unsafe.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.CompilerServices.VisualC.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Handles.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.InteropServices.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.InteropServices.RuntimeInformation.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Intrinsics.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Loader.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Numerics.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.Formatters.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.Json.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.AccessControl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Claims.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Algorithms.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Cng.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Csp.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Encoding.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.OpenSsl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Pkcs.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.X509Certificates.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Permissions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Principal.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Principal.Windows.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.SecureString.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ServiceModel.Web.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ServiceProcess.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Encoding.CodePages.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Encoding.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Encoding.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Encodings.Web.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Json.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.RegularExpressions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Channels.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Overlapped.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Tasks.Dataflow.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Tasks.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Tasks.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Tasks.Parallel.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Thread.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.ThreadPool.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Timer.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Transactions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Transactions.Local.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ValueTuple.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Web.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Web.HttpUtility.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Windows.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Windows.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.Linq.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.ReaderWriter.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.Serialization.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XDocument.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XmlDocument.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XmlSerializer.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XPath.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XPath.XDocument.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\ucrtbase.dll",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\WindowsBase.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\createdump.exe",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\MainProject.exe",
+        "SkipReason": "File is not a .NET assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Linq.Expressions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Linq.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.VisualBasic.Core.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.CSharp.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.VisualBasic.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ServiceModel.Web.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.Win32.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Buffers.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Formats.Asn1.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Compression.FileSystem.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Debug.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Json.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Contracts.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.Win32.Registry.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Compression.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.AppContext.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.Specialized.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.Concurrent.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.Serialization.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.MemoryMappedFiles.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.Immutable.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.NonGeneric.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Globalization.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Encodings.Web.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Collections.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.Annotations.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.DataAnnotations.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.StackTrace.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.EventBasedAsync.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Tasks.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.TypeConverter.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.OpenSsl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ComponentModel.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.FileVersionInfo.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Configuration.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Linq.Parallel.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Security.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Console.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Core.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.UnmanagedMemoryStream.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Data.Common.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.AccessControl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Data.DataSetExtensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.DiagnosticSource.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.NameResolution.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Data.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Memory.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Process.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Pipes.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Windows.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Dynamic.Runtime.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.TextWriterTraceListener.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Http.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Tools.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.TraceSource.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Compression.Brotli.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Diagnostics.Tracing.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Transactions.Local.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Numerics.Vectors.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Drawing.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Drawing.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Globalization.Calendars.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Globalization.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Compression.ZipFile.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.DriveInfo.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Http.Json.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.FileSystem.Watcher.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.IsolatedStorage.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.IO.Pipes.AccessControl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Linq.Queryable.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebSockets.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.HttpListener.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Mail.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.NetworkInformation.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Ping.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ValueTuple.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Requests.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.ServicePoint.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.Sockets.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebClient.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebHeaderCollection.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebProxy.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.WebSockets.Client.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Net.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Numerics.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ObjectModel.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.DataContractSerialization.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.Uri.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.Xml.Linq.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.DispatchProxy.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XmlDocument.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Emit.ILGeneration.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Encoding.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Emit.Lightweight.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Emit.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.Metadata.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Reflection.TypeExtensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Resources.Reader.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Resources.ResourceManager.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Resources.Writer.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.CompilerServices.Unsafe.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Web.HttpUtility.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.CompilerServices.VisualC.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Handles.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.InteropServices.RuntimeInformation.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.InteropServices.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Intrinsics.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Loader.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XPath.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Numerics.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.Formatters.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.Json.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.Serialization.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Runtime.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.AccessControl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Claims.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Algorithms.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Cng.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Csp.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Encoding.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.X509Certificates.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Principal.Windows.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Principal.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.SecureString.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.ServiceProcess.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Encoding.CodePages.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.Encoding.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Text.RegularExpressions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Channels.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Overlapped.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Tasks.Dataflow.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Tasks.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Tasks.Parallel.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Thread.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.ThreadPool.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.Timer.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Threading.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Transactions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Web.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.Linq.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.ReaderWriter.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XDocument.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XPath.XDocument.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.XmlSerializer.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\WindowsBase.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\mscorlib.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\netstandard.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.CoreLib.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\Microsoft.Win32.SystemEvents.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Drawing.Common.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Pkcs.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Cryptography.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Security.Permissions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Windows.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\System.Private.CoreLib.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      }
+    ],
+    "Settings": {
+      "ScanAppDomainAssemblies": true,
+      "ThrowExceptions": true,
+      "ScanAssembliesInNestedDirectories": false,
+      "AdditionalAssemblyScanningPath": null
+    }
+  },
+  "Container": {
+    "Type": "internal"
+  },
+  "Endpoint": {
+    "Name": "MainProject",
+    "SendOnly": false,
+    "NServiceBusVersion": "7.4.4"
+  },
+  "Features": [
+    {
+      "Name": "NServiceBus.Recoverability",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        [
+          "NServiceBus.Features.RootFeature",
+          "NServiceBus.Features.DelayedDeliveryFeature"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.HostStartupDiagnostics",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.ReceiveFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Sending",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.StorageInitializer",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.ReceiveStatisticsFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.InMemoryTransactionalStorageFeature",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.SerializationFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.StaticHeaders",
+      "EnabledByDefault": true,
+      "Active": false,
+      "PrerequisiteStatus": {
+        "IsSatisfied": false,
+        "Reasons": [
+          "No static outgoing headers registered"
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.Audit",
+      "EnabledByDefault": true,
+      "Active": false,
+      "PrerequisiteStatus": {
+        "IsSatisfied": false,
+        "Reasons": [
+          "No configured audit queue was found"
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.MessageCausation",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.MessageCorrelation",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.CustomIDataBus",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        [
+          "NServiceBus.Features.DataBus"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.DataBus",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.DataBusFileBased",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        [
+          "NServiceBus.Features.DataBus"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.DelayedDeliveryFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        [
+          "NServiceBus.Features.RootFeature",
+          "NServiceBus.Features.TimeoutManager"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.TimeoutManager",
+      "EnabledByDefault": true,
+      "Active": false,
+      "PrerequisiteStatus": {
+        "IsSatisfied": false,
+        "Reasons": [
+          "The selected transport supports delayed delivery natively"
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.RootFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.ForwardReceivedMessages",
+      "EnabledByDefault": true,
+      "Active": false,
+      "PrerequisiteStatus": {
+        "IsSatisfied": false,
+        "Reasons": [
+          "No forwarding address was defined in the UnicastBus config"
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.LicenseReminder",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.Mutators",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.HostInformationFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.RegisterHandlersInOrder",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.OutgoingPipelineFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.ReplyAddressFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.MessageDurabilityFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.TimeToBeReceived",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.InMemoryGatewayPersistence",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        [
+          "NServiceBus.Features.Gateway"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.InMemoryOutboxPersistence",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        [
+          "NServiceBus.Features.Outbox"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.InMemorySagaPersistence",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        [
+          "NServiceBus.Features.Sagas"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.InMemorySubscriptionPersistence",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        [
+          "NServiceBus.Features.MessageDrivenSubscriptions"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.InMemoryTimeoutPersistence",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        [
+          "NServiceBus.Features.TimeoutManager"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.LearningSagaPersistence",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        [
+          "NServiceBus.Features.Sagas"
+        ]
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.Outbox",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    },
+    {
+      "Name": "NServiceBus.Features.AutoSubscribe",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        "ApplySubscriptions"
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.InferredMessageTypeEnricherFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.MessageDrivenSubscriptions",
+      "EnabledByDefault": true,
+      "Active": false,
+      "PrerequisiteStatus": {
+        "IsSatisfied": false,
+        "Reasons": [
+          "The transport supports native pub sub"
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.NativePublishSubscribeFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.SubscriptionMigrationMode",
+      "EnabledByDefault": true,
+      "Active": false,
+      "PrerequisiteStatus": {
+        "IsSatisfied": false,
+        "Reasons": [
+          "The transport has not enabled subscription migration mode"
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.AutoCorrelationFeature",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.Sagas",
+      "EnabledByDefault": true,
+      "Active": false,
+      "PrerequisiteStatus": {
+        "IsSatisfied": false,
+        "Reasons": [
+          "No sagas were found in the scanned types"
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.Scheduler",
+      "EnabledByDefault": true,
+      "Active": true,
+      "PrerequisiteStatus": {
+        "IsSatisfied": true,
+        "Reasons": [
+          
+        ]
+      },
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": [
+        
+      ],
+      "DependenciesAreMet": true
+    },
+    {
+      "Name": "NServiceBus.Features.TransactionScopeUnitOfWork",
+      "EnabledByDefault": false,
+      "Active": false,
+      "PrerequisiteStatus": null,
+      "Dependencies": [
+        
+      ],
+      "Version": "7.4.4",
+      "StartupTasks": null,
+      "DependenciesAreMet": false
+    }
+  ],
+  "Hosting": {
+    "HostId": "df22275b-c667-db07-7948-bd38c037ffd8",
+    "HostDisplayName": "PATRICIO-LAPTOP",
+    "MachineName": "PATRICIO-LAPTOP",
+    "OSPlatform": 2,
+    "OSVersion": "Microsoft Windows NT 10.0.19042.0",
+    "IsServerGC": false,
+    "GCLatencyMode": 1,
+    "ProcessorCount": 8,
+    "Is64BitProcess": true,
+    "CLRVersion": {
+      "Major": 5,
+      "Minor": 0,
+      "Build": 2,
+      "Revision": -1,
+      "MajorRevision": -1,
+      "MinorRevision": -1
+    },
+    "WorkingSet": 43438080,
+    "SystemPageSize": 4096,
+    "HostName": "PATRICIO-LAPTOP",
+    "UserName": "Patricio",
+    "PathToExe": "C:\\Users\\Patricio\\RiderProjects\\SingleFileNServiceBusNet5\\MainProject\\published\\MainProject.dll"
+  },
+  "Licensing": {
+    "RegisteredTo": "Proxyclick SA",
+    "LicenseType": "Commercial",
+    "Edition": "Standard",
+    "Tier": "Standard",
+    "LicenseStatus": 0,
+    "LicenseLocation": "C:\\ProgramData\\ParticularSoftware\\license.xml",
+    "ValidApplications": "NServiceBus",
+    "CommercialLicense": true,
+    "IsExpired": false,
+    "ExpirationDate": "2021-06-16T00:00:00.0000000Z",
+    "UpgradeProtectionExpirationDate": null
+  },
+  "Messages": {
+    "CustomConventionUsed": false,
+    "MessageConventions": [
+      "NServiceBus Marker Interfaces"
+    ],
+    "NumberOfMessagesFoundAtStartup": 0,
+    "Messages": [
+      
+    ]
+  },
+  "Persistence": {
+    "Sagas": {
+      "Type": "NServiceBus.LearningPersistence",
+      "Version": "7.4.4"
+    }
+  },
+  "Receiving": {
+    "LocalAddress": "MainProject",
+    "InstanceSpecificQueue": null,
+    "LogicalAddress": {
+      "Qualifier": null,
+      "EndpointInstance": {
+        "Endpoint": "MainProject",
+        "Discriminator": null,
+        "Properties": {
+          
+        }
+      }
+    },
+    "PurgeOnStartup": false,
+    "QueueNameBase": "MainProject",
+    "TransactionMode": "SendsAtomicWithReceive",
+    "MaxConcurrency": 1,
+    "Satellites": [
+      
+    ],
+    "ExternalHandlerRegistry": false,
+    "MessageHandlers": {
+      
+    }
+  },
+  "Recoverability": {
+    "ImmediateRetries": 5,
+    "DelayedRetries": 3,
+    "DelayedRetriesTimeIncrease": "0:00:10",
+    "ErrorQueue": "error",
+    "UnrecoverableExceptions": [
+      "NServiceBus.MessageDeserializationException"
+    ]
+  },
+  "Serialization": {
+    "DefaultSerializer": {
+      "Type": "NServiceBus.XmlSerializer",
+      "Version": "7.4.4",
+      "ContentType": "text/xml"
+    },
+    "AdditionalDeserializers": [
+      
+    ]
+  },
+  "Transport": {
+    "Type": "NServiceBus.LearningTransportInfrastructure",
+    "Version": "7.4.4"
+  }
+}
